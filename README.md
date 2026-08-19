@@ -10,6 +10,9 @@ The system analyzes a leaf image and predicts the corresponding **crop disease c
 
 ---
 
+liveserver
+https://9m4sld-r4w392awu-arcadawebapps4.vercel.app
+
 ## 👨‍💻 Author
 
 **Mahidhar Yadav**
